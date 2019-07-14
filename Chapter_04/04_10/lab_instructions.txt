@@ -1,6 +1,6 @@
 Challenge instructions for Chapter 04: Structuring Page Content
 
-For this challenge you’ll be planning and implementing a semantic structuring strategy for the entire site based on the work we completed in the chapter. In the steps below I’ll list the tasks you need to perform, as well as the relevant files for each task.
+Test!: For this challenge you’ll be planning and implementing a semantic structuring strategy for the entire site based on the work we completed in the chapter. In the steps below I’ll list the tasks you need to perform, as well as the relevant files for each task.
 
 1.	Determine a structuring strategy.
              a.	Applies to: structure.htm
